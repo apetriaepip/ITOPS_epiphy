@@ -1,4 +1,4 @@
-# ITOPS
+# IT Operations
 
 ## This repository will be used for a variety of smaller projects which will serve as IT Operations training material.
 
