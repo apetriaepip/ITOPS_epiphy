@@ -1,1 +1,0 @@
-This is a test, if you can read this you have successfully used Git and GitHub.
